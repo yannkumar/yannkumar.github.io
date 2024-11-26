@@ -9,10 +9,6 @@ social_links:
     url: https://github.com/yannkumar 
   - name: LinkedIn
     url: https://linkedin.com/in/yannishkumar 
-    
-header: 
-  logo: /assets/logo.png 
-  tagline: "Exploring Cybersecurity, CTFs, and Ethical Hacking"
   
 footer:
   copyright: "© 2024 Yannish Kumar"
