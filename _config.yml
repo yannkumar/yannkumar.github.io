@@ -1,3 +1,17 @@
+# GitHub Pages configuration
 theme: jekyll-theme-minimal
-title: Yannish's homepage
-description: Cybersecurity work!!
+title: Yannish's Homepage
+description: Insights into my journey and work in cybersecurity!
+url: "https://yannkumar.github.io" 
+
+social_links:
+  - name: GitHub
+    url: https://github.com/yannkumar 
+  - name: LinkedIn
+    url: https://linkedin.com/in/yannishkumar 
+header: 
+  logo: /assets/logo.png 
+  tagline: "Exploring Cybersecurity, CTFs, and Ethical Hacking"
+footer:
+  copyright: "© 2024 Yannish Kumar"
+  powered_by: "GitHub Pages | Jekyll"
